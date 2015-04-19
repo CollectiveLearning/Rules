@@ -4,9 +4,10 @@ Con el fin de aprender, debemos seguir estas normas:
 
 1. Proponer ejercicios que nos permitan aprender. 
 2. Los mensajes de los commits deben ser utiles, porlo tanto, deben ser descriptivos. [Guia](http://chris.beams.io/posts/git-commit/)
-3. Para públicar una respuesta, deben seguir el [flujo de trabajo](https://github.com/CollectiveLearning/Rules#flujo-de-trabajo)
-4. Si se tienen preguntas, usar el canal dispuesto en Slack.
-5. Estamos aprendiendo, por lo tanto, si alguien tiene una pregunta, entre todos debemos solucionarla. 
+3. Los soluciones deben seguir la (guia de programación en ruby](https://github.com/bbatsov/ruby-style-guide) la cual sera revisada por hound.
+4. Para públicar una respuesta, deben seguir el [flujo de trabajo](https://github.com/CollectiveLearning/Rules#flujo-de-trabajo)
+5. Si se tienen preguntas, usar el canal dispuesto en Slack.
+6. Estamos aprendiendo, por lo tanto, si alguien tiene una pregunta, entre todos debemos solucionarla. 
 
 
 ### Flujo de trabajo
